@@ -2,16 +2,6 @@
 
 > Modern Cinema Experience with React & TMDB.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Prime_Flix-E50914?style=for-the-badge&logo=vercel&logoColor=white)](https://prime-flix-chi-five.vercel.app/)
-
-Experience the project live: [Open Prime-Flix](https://prime-flix-chi-five.vercel.app/)
-
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
-
----
-
 ## Project Overview
 
 **Prime-Flix** is a high-performance movie data application built with **React 19** and **Vite**. Inspired by premium streaming platforms like Netflix, it features a sleek dark UI, responsive grid layouts, and immersive movie details. This project demonstrates advanced API integration (TMDB), efficient state management, and modern CSS/UX principles (Glassmorphism, CSS Grid).
