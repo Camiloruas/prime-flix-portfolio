@@ -17,7 +17,8 @@ function Home() {
             page: 1,
           },
         });
-        setFilmes(response.data.results.slice(0, 18) || []);
+        const results = Array.isArray(response.data?.results) ? response.data.results : [];
+        setFilmes(results.slice(0, 18));
       } catch (error) {
         const mensagemApi = error.response?.data?.status_message || error.message || "Erro de conexão.";
         setErro(`Não foi possível carregar os filmes. ${mensagemApi}`);
