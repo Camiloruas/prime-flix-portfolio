@@ -1,8 +1,8 @@
 .footer {
   background-color: var(--bg-color);
   color: #808080;
-  padding: 70px 4% 20px;
-  margin-top: 50px;
+  padding: 35px 4% 20px;
+  margin-top: 35px;
   border-top: 1px solid #333;
 }
 
@@ -19,7 +19,7 @@
   font-family: 'Inter Tight', sans-serif;
   font-weight: 700;
   font-size: 1.8rem;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
   letter-spacing: -0.5px;
 }
 
@@ -38,14 +38,14 @@
 .link-column h4 {
   color: #fff;
   font-size: 1.1rem;
-  margin-bottom: 25px;
+  margin-bottom: 10px;
   font-weight: 600;
 }
 
 .link-column {
   display: flex;
   flex-direction: column;
-  gap: 15px;
+  gap: 10px;
 }
 
 .link-column a {
@@ -61,8 +61,8 @@
 }
 
 .footer-bottom {
-  margin-top: 70px;
-  padding-top: 20px;
+  margin-top: 35px;
+  padding-top: 10px;
   border-top: 1px solid #222;
   text-align: center;
   font-size: 0.85rem;

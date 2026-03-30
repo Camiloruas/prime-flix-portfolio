@@ -32,7 +32,7 @@ function Footer() {
       </div>
 
       <div className="footer-bottom">
-        <p>&copy; {currentYear} Prime-Flix. Criado por Camilo Ruas para fins de portfólio.</p>
+        <p>&copy; {currentYear} Prime-Flix. Desenvolvido por Camilo Ruas para fins de portfólio.</p>
       </div>
     </footer>
   );

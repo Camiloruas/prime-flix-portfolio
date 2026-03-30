@@ -1,4 +1,4 @@
-# Prime-Flix 🎬
+# Prime-Flix 
 
 > Modern Cinema Experience with React & TMDB.
 
@@ -48,7 +48,7 @@ O **Prime-Flix** é uma aplicação de alta performance para consulta de filmes 
 
 ---
 
-## 🚀 Getting Started / Começando
+##  Getting Started / Começando
 
 ### Prerequisites
 - Node.js (v18+)
@@ -67,13 +67,13 @@ O **Prime-Flix** é uma aplicação de alta performance para consulta de filmes 
 
 ---
 
-## 🤝 Contact / Contato
+##  Contact / Contato
 
 **Camilo Ruas** - Full Stack Developer
-- 📧 [miloruas@gmail.com](mailto:miloruas@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/camilo-ruas-3a2a6425)
-- 🐙 [GitHub](https://github.com/Camiloruas)
-- 🔗 [Portfolio](https://camiloruas.dev/)
+-  [miloruas@gmail.com](mailto:miloruas@gmail.com)
+-  [LinkedIn](https://www.linkedin.com/in/camilo-ruas-3a2a6425)
+-  [GitHub](https://github.com/Camiloruas)
+-  [Portfolio](https://camiloruas.dev/)
 
 ---
 *Created for portfolio purposes. Data provided by [TMDB](https://www.themoviedb.org/).*
