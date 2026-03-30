@@ -1,4 +1,4 @@
-# Prime-Flix 
+# Prime-Flix
 
 > Modern Cinema Experience with React & TMDB.
 
@@ -12,14 +12,16 @@ Experience the project live: [Open Prime-Flix](https://prime-flix-chi-five.verce
 
 ---
 
-## 🇺🇸 Project Overview
+## Project Overview
 
 **Prime-Flix** is a high-performance movie data application built with **React 19** and **Vite**. Inspired by premium streaming platforms like Netflix, it features a sleek dark UI, responsive grid layouts, and immersive movie details. This project demonstrates advanced API integration (TMDB), efficient state management, and modern CSS/UX principles (Glassmorphism, CSS Grid).
 
 ### Live Access
+
 [Launch the production version](https://prime-flix-chi-five.vercel.app/)
 
 ### Key Features
+
 - **Featured Hero Banner:** High-visibility spotlight on top-rated movies.
 - **Dynamic Movie Grid:** Responsive cards with hover animations and smooth transitions.
 - **Immersive Details:** Backdrop-focused layout with detailed metadata (rating, overview).
@@ -27,6 +29,7 @@ Experience the project live: [Open Prime-Flix](https://prime-flix-chi-five.verce
 - **Glassmorphism UI:** Modern header with blur effects and sticky navigation.
 
 ### Tech Stack
+
 - **Frontend:** React 19 (Hooks, Functional Components)
 - **Routing:** React Router DOM V7
 - **Styling:** Vanilla CSS (Modern CSS Variables, Flex/Grid)
@@ -40,9 +43,11 @@ Experience the project live: [Open Prime-Flix](https://prime-flix-chi-five.verce
 O **Prime-Flix** é uma aplicação de alta performance para consulta de filmes desenvolvida com **React 19** e **Vite**. Inspirado em plataformas premium de streaming como Netflix, o projeto conta com uma interface dark elegante, grids responsivos e detalhes imersivos de filmes. Este projeto demonstra integração avançada de APIs (TMDB), gerenciamento eficiente de estados e princípios modernos de CSS/UX (Glassmorphism, CSS Grid).
 
 ### Acesso Online
+
 [Abrir a versão publicada](https://prime-flix-chi-five.vercel.app/)
 
 ### Principais Funcionalidades
+
 - **Banner Hero em Destaque:** Exibição impactante de filmes em alta.
 - **Grid Dinâmico de Filmes:** Cards responsivos com animações de hover e transições suaves.
 - **Detalhes Imersivos:** Layout focado no backdrop do filme com metadados detalhados (avaliação, sinopse).
@@ -50,6 +55,7 @@ O **Prime-Flix** é uma aplicação de alta performance para consulta de filmes 
 - **UI Glassmorphism:** Header moderno com efeitos de desfoque e navegação fixa.
 
 ### Tecnologias Utilizadas
+
 - **Frontend:** React 19 (Hooks, Componentes Funcionais)
 - **Roteamento:** React Router DOM V7
 - **Estilização:** Vanilla CSS (Variáveis Modernas, Flex/Grid)
@@ -58,13 +64,15 @@ O **Prime-Flix** é uma aplicação de alta performance para consulta de filmes 
 
 ---
 
-##  Getting Started / Começando
+## Getting Started / Começando
 
 ### Prerequisites
+
 - Node.js (v18+)
 - A TMDB API Key ([Get it here](https://developers.themoviedb.org/3/getting-started/introduction))
 
 ### Setup
+
 1. Clone the repository: `git clone https://github.com/Camiloruas/prime-flix.git`
 2. Install dependencies: `npm install`
 3. Create a `.env` file in the root and add your keys:
@@ -77,13 +85,15 @@ O **Prime-Flix** é uma aplicação de alta performance para consulta de filmes 
 
 ---
 
-##  Contact / Contato
+## Contact / Contato
 
 **Camilo Ruas** - Full Stack Developer
--  [miloruas@gmail.com](mailto:miloruas@gmail.com)
--  [LinkedIn](https://www.linkedin.com/in/camilo-ruas-3a2a6425)
--  [GitHub](https://github.com/Camiloruas)
--  [Portfolio](https://camiloruas.dev/)
+
+- [miloruas@gmail.com](mailto:miloruas@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/camilo-ruas-3a2a6425)
+- [GitHub](https://github.com/Camiloruas)
+- [Portfolio](https://camiloruas.dev/)
 
 ---
-*Created for portfolio purposes. Data provided by [TMDB](https://www.themoviedb.org/).*
+
+_Created for portfolio purposes. Data provided by [TMDB](https://www.themoviedb.org/)._
