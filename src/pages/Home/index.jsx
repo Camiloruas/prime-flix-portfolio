@@ -10,11 +10,6 @@ function Home() {
 
   useEffect(() => {
     async function loadFilmes() {
-      console.log("TMDB DEBUG env", {
-        apiKey: import.meta.env.VITE_TMDB_API_KEY,
-        baseURL: import.meta.env.VITE_TMDB_BASE_URL,
-      });
-
       try {
         const response = await api.get("/movie/now_playing", {
           params: {
@@ -22,12 +17,9 @@ function Home() {
             page: 1,
           },
         });
-        console.log("TMDB DEBUG response.data", response.data);
         const results = Array.isArray(response.data?.results) ? response.data.results : [];
-        console.log("TMDB DEBUG results.length", results.length);
         setFilmes(results.slice(0, 18));
       } catch (error) {
-        console.error("TMDB DEBUG error", error.response?.data || error.message || error);
         const mensagemApi = error.response?.data?.status_message || error.message || "Erro de conexão.";
         setErro(`Não foi possível carregar os filmes. ${mensagemApi}`);
       } finally {
